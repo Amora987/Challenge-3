@@ -2,6 +2,9 @@
 
 # Crypto Arbitrage
 
-## Analyzing old crypto data
+## Description  
+In this application, the program analyzes Bitcoin's trade data to locate the best prices to buy and sell on different exchanges, through extracting files: `bitstamp.csv` and `coinbase.csv`.  
 
-## Description 
+## Run the Application
+Clone from the repository  
+Run on VS Code or Jupyter Lab
